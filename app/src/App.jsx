@@ -2,7 +2,7 @@ import React from "react";
 import { ethers } from "ethers";
 import './App.css';
 import abi from "./utils/WavePortal.json";
-import Progressbar from './Progress_bar';
+
 
 
 
